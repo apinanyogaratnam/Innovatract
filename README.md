@@ -1,5 +1,8 @@
 # EthOnline 2021 Hack
 
+youtube: https://www.youtube.com/watch?v=fd-967u5cxE
+showcase link: https://showcase.ethglobal.com/ethonline2021/innovatract
+
 # Innovatract
 A smart contract that enables users to enter binding contracts with themselves
 
